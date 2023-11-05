@@ -879,7 +879,7 @@ class App(ctk.CTk):
         # paper_search_data = paper_search_data.to_dict(orient='list')
         # paper_search_data.pop('paper_fields')
 
-        print(paper_search_data)
+        # print(paper_search_data)
 
         # save for future usage
         # delete all rows here
