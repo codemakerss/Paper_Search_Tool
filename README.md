@@ -13,7 +13,17 @@ This project aims to help researchers to easily find the paper they wanted witho
 
 ## How to use
 
-- Safe Mode
+- Set up a virtual environment before proceed to following steps:
+
+  ```bash
+  python3 -m venv venv # set up virtual environment
+  ```
+
+  ```bash
+  source venv/bin/activate # activate virtual environment
+  ```
+  
+- Safe Mode (Recommend)
 
   1. git clone to your own directory 
 
