@@ -1,0 +1,3 @@
+([('PaperSearchApp',
+   '/Users/duanhany/Desktop/DUKE/DAREC/AI_Assistant/AI_Dev/1.Arxiv_Build/arxiv_app_build/arxiv_search_app/dist/PaperSearchApp',
+   'EXECUTABLE')],)
